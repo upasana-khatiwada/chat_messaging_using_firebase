@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "942983480059",
+    "project_id": "chat-messaging-firebase",
+    "storage_bucket": "chat-messaging-firebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942983480059:android:8fdcf9953ebd871f0f665e",
+        "android_client_info": {
+          "package_name": "com.example.chat_messaging_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuCA7WBLMPsSnTKUUYxptBQI-GYbUSaw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
